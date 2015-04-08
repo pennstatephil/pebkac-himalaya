@@ -1,0 +1,56 @@
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: #e1e1e1;
+	text-align: center;
+}
+
+.banner {
+	font-size: 14px;
+	background-image: url(images/banner_03.gif);
+	vertical-align: middle;
+	color: #FFFFCC;
+        background-color: #273a97;
+        padding: 6px;
+}
+.banner a:link { color: #FFFFFF; }
+.banner a:active { color: #FFFFFF; }
+.banner a:visited { color: #FFFFFF; }
+.banner a:hover { color: #FFFFCC; text-decoration: none; }
+
+.navigation {
+	font-size: 14px;
+	background-image: url(images/banner_03.gif);
+	vertical-align: top;
+	color: #FFFFCC;
+        background-color: #273a97;
+        padding: 10px;
+}
+.navigation a:link { color: #FFFFFF; }
+.navigation a:active { color: #FFFFFF; }
+.navigation a:visited {	color: #FFFFFF; }
+.navigation a:hover { color: #FFFFCC; text-decoration: none; }
+
+.page {
+        vertical-align: top;
+	background-color: #ffffff;
+	padding: 10px;
+	font-size: 14px;
+}
+.page a:link { color: #3366ff; text-decoration: none; }
+.page a:active { color: #3366FF; text-decoration: none; }
+.page a:visited { color: #3366FF; text-decoration: none; }
+.page a:hover { color: #ff0000; text-decoration: bold; }
+
+h1 {
+	font-size: 20px;
+	color: #990000;
+}
+
+h2 {
+	font-size: 15px;
+	color: #CC6600;
+}
+
+.error {
+        color: red;
+}
